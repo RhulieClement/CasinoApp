@@ -1,0 +1,16 @@
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.exe
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.deps.json
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.runtimeconfig.json
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.runtimeconfig.dev.json
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.dll
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\ref\CasinoAssessmentApp.dll
+C:\Users\gibso\source\repos\CasinoAssessmentApp\bin\Debug\net5.0\CasinoAssessmentApp.pdb
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.AssemblyInfoInputs.cache
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.AssemblyInfo.cs
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.csproj.CoreCompileInputs.cache
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.dll
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\ref\CasinoAssessmentApp.dll
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.pdb
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.genruntimeconfig.cache
+C:\Users\gibso\source\repos\CasinoAssessmentApp\obj\Debug\net5.0\CasinoAssessmentApp.csproj.AssemblyReference.cache
